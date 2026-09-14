@@ -180,6 +180,9 @@ Os conteúdos estão organizados por área de conhecimento. Quando disponível, 
 
 ### 🏗️ Engenharia de Software
 
+- **Curso:** Microsserviços - Padrões de Projeto  
+  Alura · 6h · [Certificado](./certificados/engenharia-software/alura-microsservicos-padroes-de-projeto.pdf) · [Verificar](https://cursos.alura.com.br/certificate/37ad965e-77d4-48de-9f1a-c80c3ab263e9?lang=pt_BR)
+
 - **Curso:** Swagger - Documentando Suas APIs  
   Alura · 8h · [Certificado](./certificados/engenharia-software/alura-swagger-documentando-suas-apis.pdf) · [Verificar](https://cursos.alura.com.br/certificate/6f51d90c-2489-44aa-a111-b42c92965ce9?lang=pt_BR)
 
